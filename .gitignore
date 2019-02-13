@@ -1,0 +1,8 @@
+venv/
+*.pyc
+**/js
+*.sqlite3
+**/migrations
+cart/settings.py
+
+
